@@ -1,0 +1,846 @@
+body{
+	font-family: 'Playfair Display', serif;
+}
+.logoimg{
+	width:190px;
+	
+}
+.header .head-item{
+padding-top: 0px!important;
+    padding-bottom: 0px !important;
+}
+.header a{
+	color: #fff !important;
+
+}
+.main-header{
+  height: 55px;
+  background-color: #516466;
+  z-index: 99;
+  position: relative;
+}
+.top-header{
+	background-color: #445355;
+  z-index: 99;
+  position: relative;
+}
+.main-header{
+/*background-image: url(../images/Untitled-1.png);*/
+/*background-repeat: repeat-x;*/
+
+  /*background-size: contain;*/
+
+}
+.sub-menu a{
+	color: #fff !important;
+   font-size: 22px;
+}
+.mt5{
+  margin-top: 5px;
+}
+.mt80{
+  margin-top: 80px;
+}
+.sub-menu {
+	height: 40px;
+   height: 35px;
+    border-top: 2px solid #f2f2f2;
+    border-bottom: 2px solid #f2f2f2;
+    margin-top: 7px;
+} 
+
+.loginbtn{
+	background: #445355;
+   
+    border-radius: 23px;
+    /* padding: 21px; */
+    font-size: 15px;
+   
+    padding-left: 30px;
+    padding-right: 30px;
+   padding-top: 2px;
+   padding-bottom: 2px
+}
+.sendbtn{
+  background: #516466;
+    color: #fff;
+    border-radius: 25px;
+    padding: 5px 30px;
+}
+.colorf2{
+	color: #f2f2f2;
+	
+}
+.fs13{
+	font-size: 13px;
+}
+.fs12{
+  font-size: 12px;
+}
+.fs16{
+	font-size: 16px;
+}
+.fs18{
+  font-size: 18px;
+}
+.pt0{
+	padding-top: 0px;
+}
+.pt10{
+  padding-top: 10px;
+}
+.pt15{
+  padding-top: 15px;
+}
+.pt30{
+  padding-top: 30px;
+}
+.pt25{
+  padding-top: 25px;
+}
+.colorfff{
+	color:#fff;
+}
+.hero-text {
+  text-align: left;
+
+  
+  
+  color: #fff;
+}
+.archsctn{
+  background-image: url("../images/pngfuel.com.png");
+   background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+ 
+}
+.peoplefrm{
+  /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+  background-image: /*inear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),*/ url("../images/NicePng_polaroid-frame-png_85740.png");
+
+  /* Set a specific height */
+     height: 90%;
+
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.abouthero{
+   background-image: /*inear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),*/ url("../images/download.jpg");
+
+  height: 400px;
+width:480px;
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+/* The hero image */
+.hero-arch{
+  /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+  background-image: /*inear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),*/ url("../images/download.jpg");
+
+  /* Set a specific height */
+     height: 90%;
+
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+/* The hero image */
+.vwstryhero{
+  /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+  background-image: /*inear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),*/ url("../images/download.jpg");
+
+  /* Set a specific height */
+     height: 40%;
+
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+/* The hero image */
+.nearmehero{
+  /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+  background-image: /*inear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),*/ url("../images/Asa-Williams-House-circa-1912-CROPPED-1000x547.jpg");
+
+  /* Set a specific height */
+     height: 40%;
+
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.loginhero{
+    /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+  background-image: linear-gradient(rgba(247, 240, 214, 0.9), rgba(247, 240, 214, 0.9)), url("../images/Asa-Williams-House-circa-1912-CROPPED-1000x547.jpg");
+
+  /* Set a specific height */
+     height: 90%;
+
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.loginhero2{
+    /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+  background-image:  url("../images/photo-1567565328516-4c8c73771fae.jpg");
+
+  /* Set a specific height */
+   /*  height: 100%;*/
+
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.peoplehero{
+  /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+  background-image: /*inear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),*/ url("../images/Old-Family-Pictures-that-Unwittingly-Captured-the-Supernatural-16.jpg");
+
+  /* Set a specific height */
+     height: 90%;
+
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.pnshero{
+ /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+  background-image:  url("../images/pns.jpg");
+
+  /* Set a specific height */
+     height: 90%;
+
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.herotitle{
+	font-size: 85px;
+   
+    padding: 10px;
+}
+.mt100{
+  margin-top: 100px;
+}
+.mt10{
+  margin-top: 10px;
+}
+.mb50{
+  margin-bottom: 50px;
+
+}
+.mt50{
+  margin-top: 50px;
+}
+.pt100{
+  padding-top: 100px;
+}
+.pb100{
+  padding-bottom: 100px;
+}
+.mt20{
+	margin-top: 20px;
+}
+.mb20{
+  margin-bottom: 20px;
+}
+.mt30{
+  margin-top: 30px;
+}
+.mb50{
+  margin-bottom: 50px;
+}
+.mt50{
+  margin-top: 50px;
+}
+.p10{
+	padding:10px;
+}
+.hmbtn{
+  background: #516466;
+    color: #fff;
+    border-radius: 12px;
+}
+.recaptcha-wrapper {
+    height: 70px;
+  overflow: hidden;
+  background-color: #F9F9F9;
+  border-radius: 3px;
+  box-shadow: 0px 0px 4px 1px rgba(0,0,0,0.08);
+  -webkit-box-shadow: 0px 0px 4px 1px rgba(0,0,0,0.08);
+  -moz-box-shadow: 0px 0px 4px 1px rgba(0,0,0,0.08);
+  height: 70px;
+  position: relative;
+  margin-top: 17px;
+  border: 1px solid #d3d3d3;
+  color: #000;
+}
+
+.recaptcha-info {
+  background-size: 32px;
+  height: 32px;
+  margin: 0 13px 0 13px;
+  position: absolute;
+  right: 8px;
+  top: 9px;
+  width: 32px;
+  background-image: url(https://www.gstatic.com/recaptcha/api2/logo_48.png);
+  background-repeat: no-repeat;
+}
+.rc-anchor-logo-text {
+  color: #9b9b9b;
+  cursor: default;
+  font-family: Roboto,helvetica,arial,sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 10px;
+  margin-top: 5px;
+  text-align: center;
+  position: absolute;
+  right: 10px;
+  top: 37px;
+}
+.rc-anchor-checkbox-label {
+  font-family: Roboto,helvetica,arial,sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 17px;
+  left: 50px;
+  top: 26px;
+  position: absolute;
+  color: black;
+}
+.rc-anchor .rc-anchor-normal .rc-anchor-light {
+  border: none;
+}
+.rc-anchor-pt {
+  color: #9b9b9b;
+  font-family: Roboto,helvetica,arial,sans-serif;
+  font-size: 8px;
+  font-weight: 400;
+  right: 10px;
+  top: 53px;
+  position: absolute;
+  a:link {
+    color: #9b9b9b;
+    text-decoration: none;
+  }
+}
+
+
+
+.g-recaptcha {
+  width: 41px;
+
+   border: 1px solid #516466; 
+  height: 38px;
+  overflow: hidden;
+  float: left;
+  margin-top: 16px;
+  margin-left: 6px;
+  
+    }
+
+.fs10{
+  font-size: 10px !important;
+}
+.fs16{
+  font-size: 16px;
+}
+.fs50{
+  font-size: 50px;
+}
+.registerbtn{
+   background: #516466;
+    color: #fff;
+    border-radius: 12px;
+    font-size: 16px;
+    margin-top: 10px
+
+}
+.mb0{
+  margin-bottom: 0px !important;
+}
+.formmain{
+      background: #f7f0d6;
+    font-size: 12px;
+    border-radius: 25px;
+    padding: 15px 30px;
+
+}
+.bordergrey{
+  border: 1px dashed #516466;
+   border-radius: 25px;
+
+}
+.tcgrey {
+  color : #516466;
+}
+/* headlines with lines */
+.decorated{
+     overflow: hidden;
+     text-align: center;
+ }
+.decorated > span{
+    position: relative;
+    display: inline-block;
+}
+.decorated > span:before, .decorated > span:after{
+    content: '';
+    position: absolute;
+    top: 50%;
+    
+    border-bottom: 2px double;
+    width: 100vw;
+    margin: 0 20px;
+}
+.decorated > span:before{
+    right: 100%;
+}
+.decorated > span:after{
+    left: 100%;
+}
+.Aboutsec{
+  background-color:#516466;
+
+}
+.abtbs{
+  background-color: #f7f0d6;
+  color:#516466;
+}
+/* Top left text */
+.top-left {
+  position: absolute;
+  top: 30px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   padding-left: 20px;
+   padding-right: 20px;
+  background-color: #516466;
+  color:#fff;
+  font-size: 33px;
+
+}
+/* detailshome text */
+.detailshome {
+  
+    background-color: #516466;
+  color:#fff;
+  padding:10px;
+}
+.vwdbtn{
+  border-radius: 13px;
+  color: #516466;
+  background-color: #fff;
+    padding-left: 20px;
+padding-right: 20px;
+
+}
+.fs18{
+  font-size: 18px;
+
+}
+.fs35{
+  font-size: 35px;
+
+}
+.bottom-right {
+    position: absolute;
+    
+    bottom: 125px;
+    right: 25px;
+}
+.icn{
+  color: white;
+   background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+
+    font-size: 18px;
+}
+.llsection{
+   background-image: url("../images/body-bg.jpg");
+ 
+}
+.signup_form {
+  max-width: 470px;
+  width: 100%;
+  margin: 0 auto;
+ /* box-shadow: 0px 2px 5px 0px rgba(10, 6, 20, 0.24);*/
+  &:focus {
+    outline: none;
+  }
+  .form-control {
+    border: none;
+    &:focus {
+      box-shadow: none;
+    }
+  }
+  input {
+    height: 44px;
+  }
+  button {
+    border: none;
+    height: 44px;
+    background-color: #0ed085;
+    color: #fff;
+    margin: -1px;
+    border-radius: 0;
+    width: 135px;
+    text-transform: uppercase;
+    position: relative;
+    transition: all ease 0.3s;
+    -webkit-transition: all ease 0.3s;
+    -moz-transition: all ease 0.3s;
+    -o-transition: all ease 0.3s;
+    -ms-transition: all ease 0.3s;
+    &:hover, &:focus, &:active, &:visited {
+      color: #fff;
+      background-color: rgba(14, 208, 133, 0.77);
+      outline: none;
+      transition: all ease 0.3s;
+      -webkit-transition: all ease 0.3s;
+      -moz-transition: all ease 0.3s;
+      -o-transition: all ease 0.3s;
+      -ms-transition: all ease 0.3s;
+      &:before {
+        background-color: rgba(14, 208, 133, 0.77);
+        transition: all ease 0.3s;
+        -webkit-transition: all ease 0.3s;
+        -moz-transition: all ease 0.3s;
+        -o-transition: all ease 0.3s;
+        -ms-transition: all ease 0.3s;
+      }
+    }
+    &:before {
+      content: '';
+      position: absolute;
+      top: 100%;
+      left: 0;
+      height: 1px;
+      background-color: #0ed085;
+      width: 100%;
+      transition: all ease 0.3s;
+      -webkit-transition: all ease 0.3s;
+      -moz-transition: all ease 0.3s;
+      -o-transition: all ease 0.3s;
+      -ms-transition: all ease 0.3s;
+    }
+  }
+  .input-group-btn:last-child > .btn, .input-group-btn:last-child > .btn-group {
+    z-index: 2;
+    margin-left: 0px;
+  }
+}
+.colorfff{
+  color:#fff;
+}
+.brblack{
+  border:1px solid #000;
+}
+.br0{
+  border-radius: 0px;
+}
+.pt50{
+  padding-top: 50px;
+}
+.pb50{
+  padding-bottom: 50px;
+}
+.bgwhite{
+  background-color: #fff;
+}
+.p0{
+  padding: 0px;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.imgwithtext .content {
+ top: 185px;
+    position: absolute;
+    background: rgb(81, 100, 102);
+    background: rgba(81, 100, 102, 0.5);
+    color: #f1f1f1;
+    width: 92%;
+    padding: 12px;
+}
+.mr10 
+{  
+ margin-right: 10px;
+  }
+  .top-header{
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .ffa{
+     font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .footer{
+background-color: #516466;
+color: #fff;
+ font-family:  Arial, Helvetica, sans-serif;
+ font-size: 14px;
+  }
+  .footer a{
+    color: #fff;
+  }
+  .footermenu a{
+        margin-left: 5px;
+    margin-right: 5px;
+  }
+  .footercr{
+     font-family: Arial, Helvetica, sans-serif;
+       background-color: #445355;
+       
+       color: #fff;
+
+  }
+  .footercr p{
+    padding: 5px;
+    margin: 5px;
+  }
+ .video-thumbnail .icon {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    /* background-color: #555; */
+    color: white;
+    font-size: 70px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+}
+
+
+#videobcg {
+   position: absolute;
+  top: 50%;
+  left: 0%;
+  transform: translate(0%, -50%);
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  overflow-x: hidden;
+  
+}
+.wrap-rel {
+    position: relative;
+    height: 500px ;
+}
+
+#overlay {
+  background: rgba(0, 0, 0, 0.2);
+  display: none;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 99998;
+
+}
+.ourjr{
+
+  background-image: url(../images/flower-clipart.png);
+ margin: auto;
+
+  background-position:center center;
+  background-repeat:no-repeat;
+  background-size:contain;
+  width: 200px;
+  max-width:100%;
+  height: 200px;
+
+}
+.count{
+  font-size: 80px;;
+  color: #516466
+}
+.ojtext{
+  position: absolute;
+  top: 95%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 13px;
+  color: #516466
+
+}
+.modal{
+  vertical-align: center;
+  
+}
+.modal-header{
+  background-color: #516466;
+  color: #fff;
+}
+.archdetails{
+  /*background-color: #ffe8cc;*/
+       padding: 100px 20px;
+       color: #516466
+}
+.imgarch{
+  clip-path: ellipse(35% 50% at 50% 50%);
+}
+.h230{
+  height: 230px;
+}
+.vwmore{
+  background: #516466;
+    color: #fff;
+    border-radius: 25px;
+    padding: 10px 70px;
+}
+.peopleimg{
+  width: 222px;
+  height: 350px;
+  padding:20px 5px;
+   position: relative;
+   overflow: hidden;
+}
+
+.img-people{
+  height: 237px;
+    overflow: hidden;
+}
+ .img-people img{
+ width: 100%;
+}
+
+.Img_frame{
+  position: absolute;
+  width: 222px;
+  height:350px;
+  top:0;
+}
+
+.Img_frame img{
+  width: 100%;
+}
+.input-container {
+  display: flex;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+/* Style the form icons */
+.icon {
+  padding: 10px;
+  
+    border-radius: .25rem;
+  color: black;
+  min-width: 50px;
+  text-align: center;
+  background-color:white;
+}
+
+/* Style the input fields */
+.input-field {
+  width: 100%;
+  padding: 10px;
+  outline: none;
+}
+.h590{
+  height: 590px !important;
+}
+.imgcenter{
+      margin-top: 35%;
+    margin-left: 90%;
+}
+.aboutbs{
+  width: 250px;
+    height: 250px;
+    background-color: white;
+    border-radius: 50%;
+    border:1px solid #516466;
+    margin-left: 45px;
+}
+.hwwork{
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    border-radius: 50%;
+    border:1px dashed #516466;
+    margin: 0% 20%;
+}
+.br{
+  border-right: 2px solid  #516466;
+}
+.mlr50{
+  margin: 0px 50px;
+}
+.fs20{
+  font-size: 20px !important;
+}
+.fw600{
+  font-weight: 600 !important;
+}
+.fw300{
+  font-weight: 300;
+}
+.contacthero{
+background-image: /*inear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),*/ url("../images/rotary-telephones-cords-retro-preview.jpg");
+
+/* Set a specific height */
+     height: 90%;
+
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.cnctfrm{
+  padding: 10px 18px;
+    background: #fff;
+}
+.brgrey{
+  border: 1px solid #516466;
+}
+.displayinline{
+  display: inline-block;
+
+}
+.ourjrbox{
+  border: 2px solid #516466;
+}
+.iconourjr{
+      position: absolute;
+    top: -16px;
+    left: 41%;
+    background-color: #fff;
+    padding: 2px;
+}
