@@ -844,3 +844,6 @@ background-image: /*inear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),*/ ur
     background-color: #fff;
     padding: 2px;
 }
+.img100{
+  width: 100%;
+}
